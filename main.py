@@ -3,8 +3,8 @@ import os
 import asyncio
 import logging
 from collections import defaultdict
-from astrbot.api.event import filter, AstrMessageEvent
-from astrbot.api.star import Context, Star, register
+from astrbot.api.event import filter, AstrMessageEvent # type: ignore
+from astrbot.api.star import Context, Star, register # type: ignore
 
 logger = logging.getLogger(__name__)
 
