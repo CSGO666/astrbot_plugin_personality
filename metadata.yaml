@@ -1,0 +1,6 @@
+name: astrbot_plugin_personality
+display_name: 自定义人设切换
+desc: 群聊内每人独立人设，人设二态（公开/有密码），支持密码保护与管理员授权
+version: v1.0.0
+author: CSGO666
+repo: https://github.com/CSGO666/astrbot_plugin_personality
